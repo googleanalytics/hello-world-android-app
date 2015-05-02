@@ -1,2 +1,10 @@
-# OS or Editor folders
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
 .DS_Store
+*~
+/build
+/gradle/
+/gradlew
+/gradlew.bat

@@ -1,6 +1,5 @@
 Google Analytics Hello World App
 ================================
 
-Placeholder for example Android app using Google Analytics SDK.
+Example minimal Android app using Google Analytics. See [Google Analytics Getting Started Gude](https://developers.google.com/analytics/devguides/collection/android/) for detailed instructions on how to add Google Analytics to your app.
 
-TODO: Complete the readme.
